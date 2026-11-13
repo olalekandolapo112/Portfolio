@@ -1,0 +1,31 @@
+ /* .navbar li {
+    display: inline;
+ } */
+
+
+h1{
+   color: gold;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  /* font-optical-sizing: auto; */
+  font-weight: 500;
+  /* font-style: normal; */
+  background-color: rgb(28, 148, 167);
+  color: white;
+  
+}
+
+ nav li {
+    display: inline;
+ }
+  h2 {
+   color: black;
+  }
+  #resume{
+   color: brown;
+  }
+  #contact {
+   color: chartreuse;
+  }
